@@ -4,7 +4,7 @@
 This project focuses on analyzing sales data to generate meaningful insights and support data-driven decision-making.
 
 ---
-## 🔹Source: Sales_analysis
+## 🔹Source: Sales_analysis[https://github.com/jaysharma03/FUTURE_DS_03/raw/main/Marketing_Funnel_Analysis_Task3.pbx]
 
 ---
 
@@ -41,7 +41,7 @@ This project focuses on analyzing sales data to generate meaningful insights and
 
 ## 🔹 SQL Analysis
 
- 🔑 Dateset: 
+ 🔑 Dateset: [https://github.com/jaysharma03/FUTURE_DS_03/raw/main/Marketing_Funnel_Analysis_Task3.pbx]
 
 ```sql
 -- Total Sales
