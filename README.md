@@ -4,7 +4,7 @@
 This project focuses on analyzing sales data to generate meaningful insights and support data-driven decision-making.
 
 ---
-## 🔹Source: Sales_analysis[https://github.com/jaysharma03/FUTURE_DS_03/raw/main/Sales_Analysis_Task1.pbix]
+## 🔹Source: Sales_analysis(https://github.com/jaysharma03/FUTURE_DS_03/raw/main/Sales_Analysis_Task1.pbix)
 
 ---
 
