@@ -99,7 +99,7 @@ GROUP BY Region;
 ---
 
 ## 🖼️ Dashboard Preview
-![Sales Dashboard]()
+![Sales Dashboard](https://github.com/jaysharma03/maincraft-sales-analysis-task1/blob/main/Sales_Dashbaord.JPG)
 
 ---
 
