@@ -41,7 +41,7 @@ This project focuses on analyzing sales data to generate meaningful insights and
 
 ## 🔹 SQL Analysis
 
- 🔑 Dateset: [https://github.com/jaysharma03/FUTURE_DS_03/raw/main/Marketing_Funnel_Analysis_Task3.pbx]
+ 🔑 Dateset: [sales_analysis](https://github.com/jaysharma03/maincraft-sales-analysis-task1/blob/main/sales_analysis.sql)
 
 ```sql
 -- Total Sales
