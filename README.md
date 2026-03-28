@@ -62,16 +62,6 @@ GROUP BY Region;
 ---
 
 
-## 🔹 Dashboard Features
-- 📅 Date slicer  
-- 🌍 Region filter  
-- 📊 Monthly sales trend  
-- 📦 Revenue & units sold comparison  
-- 🥧 Category-wise sales distribution  
-- 👥 Top customers analysis  
-
----
-
 ## 🔹 Learning Outcomes
 - Data cleaning and preprocessing  
 - Creating measures using DAX  
